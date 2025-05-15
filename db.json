@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "id": "9bf4",
+      "nombre": "Jhon",
+      "email": "batmanponte@gmail.com",
+      "telefono": "951655295",
+      "empresa": "1111111111111111"
+    },
+    {
+      "id": "a598",
+      "nombre": "Jhon",
+      "email": "batmanponte@gmail.com",
+      "telefono": "951655295",
+      "empresa": "12212"
+    },
+    {
+      "nombre": "Luis Gutierrez",
+      "email": "lgutierrez@idat.com",
+      "telefono": "213216546546 33",
+      "empresa": "IDAT",
+      "id": "6170"
+    }
+  ]
+}
