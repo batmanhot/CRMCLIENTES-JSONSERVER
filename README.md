@@ -1,6 +1,6 @@
 ﻿# CRMCLIENTES-JSONSERVER
 #
-#Es necesario instalar el NODE JS y luego su dependencia JSON-SERVER
+#Es necesario instalar el NODE JS y luego su dependencia JSON-SERVER .. 44
 #
 #npm install -g json-server
 #json-server --watch db.json
